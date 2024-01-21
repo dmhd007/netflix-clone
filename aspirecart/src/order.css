@@ -1,0 +1,98 @@
+.details {
+  height: 550px;
+  width: 700px;
+  background-color: rgb(8, 8, 8);
+  margin-top: 90px;
+  border-radius: 10px;
+  /* box-shadow: 0px 0px 10px 1px rgb(16, 16, 16); */
+}
+.banner {
+  display: flex;
+  height: 50px;
+
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.address {
+  height: 50px;
+  width: 350px;
+  background-color: rgb(186, 20, 20);
+  border-top-left-radius: 10px;
+
+  border-bottom: 2px solid rgb(186, 20, 20);
+}
+.payment {
+  height: 50px;
+  width: 350px;
+
+  border-top-right-radius: 10px;
+  border-bottom: 2px solid rgb(186, 20, 20);
+}
+.texta {
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 18px;
+}
+.colorc {
+  color: rgb(20, 20, 20);
+}
+.colorcc {
+  background-color: rgb(186, 20, 20);
+}
+.colorccc {
+  background-color: rgb(8, 8, 8);
+}
+.house {
+  background-color: rgb(13, 13, 13);
+  border: none;
+  width: 500px;
+  margin-right: 70px;
+  margin-top: 40px;
+  padding-left: 20px;
+  color: white;
+  height: 40px;
+}
+.display {
+  display: flex;
+  margin-left: 70px;
+}
+.inchange {
+  width: 232px;
+  margin-right: 0px;
+  margin-left: 20px;
+}
+.next {
+  color: white;
+  background-color: rgb(156, 20, 20);
+  padding: 13px 60px;
+  border-radius: 10px;
+  font-size: 20px;
+  transition-duration: 300ms;
+  padding-bottom: 15px;
+  box-shadow: 0px 0px 5px 0.5px rgb(16, 14, 14);
+  margin-top: 300px;
+}
+.next:hover {
+  background-color: rgb(191, 35, 17);
+}
+.mar {
+  margin-top: 40px;
+}
+.captchaa {
+  display: flex;
+
+  margin-left: 40px;
+}
+.captcha {
+  margin-top: 40px;
+  margin-left: 90px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 2px rgb(186, 20, 20);
+}
+.changee {
+  margin-left: 100px;
+  margin-top: 48px;
+}

@@ -1,0 +1,52 @@
+.llll {
+  /* background-color: red; */
+  display: flex;
+  padding-top: 50px;
+}
+.sub1 {
+  width: 600px;
+  height: 500px;
+
+  margin: 30px;
+  background-color: rgba(208, 34, 34, 0.267);
+  border-radius: 25px;
+}
+.sub {
+  width: 600px;
+  height: 600px;
+  margin: 30px;
+  /* background-color: green; */
+}
+.getin {
+  font-size: 40px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.getin:hover {
+  font-size: 40px;
+}
+.writeus {
+  font-size: 20px;
+  margin-top: -80px;
+  margin-left: 3px;
+  margin-bottom: -60px;
+}
+.writeus:hover {
+  font-size: 20px;
+}
+.dummy {
+  padding-right: 25px;
+  font-size: 16px;
+  font-weight: 500;
+  color: gray;
+}
+.dummy:hover {
+  font-size: 16px;
+}
+.inputs {
+  margin-top: 30px;
+}
+.inputss1 {
+  padding-bottom: 45px;
+  margin-bottom: 50px;
+}

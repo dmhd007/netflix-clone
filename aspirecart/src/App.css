@@ -1,0 +1,114 @@
+header {
+  position: fixed;
+  background-color: rgb(0, 0, 0);
+  width: 1720px;
+  height: 90px;
+}
+nav {
+  display: flex;
+  margin-top: 0px;
+}
+body {
+  background-color: black;
+  margin-top: none;
+}
+button {
+  padding-top: 38px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+  background-color: rgb(0, 0, 0);
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 30px;
+  margin-top: 20px;
+  color: white;
+  border-color: rgb(122, 21, 21);
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+  transition-duration: 150ms;
+  letter-spacing: 01px;
+}
+button:hover {
+  border-bottom: 5px solid red;
+}
+
+.fbutton {
+  margin-left: 90px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+  background-color: none;
+  background-color: rgb(0, 0, 0);
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  margin-top: 20px;
+  color: white;
+  transition-duration: 150ms;
+}
+.fbutton:hover {
+  border-bottom: 5px solid red;
+}
+.logo {
+  margin-top: 20px;
+  margin-left: 20px;
+  height: 60px;
+  width: 150px;
+  background-color: black;
+  /* background-image: url("images/logo.png"); */
+  background-size: cover;
+}
+input {
+  margin-left: 80px;
+  margin-top: 28px;
+  height: 35px;
+  border-radius: 15px;
+  border: rgb(107, 22, 22) solid;
+  width: 250px;
+  border-width: 2px;
+  font-size: 16px;
+  padding-left: 10px;
+  outline: none;
+}
+h1 {
+  color: white;
+}
+
+.test {
+  background-color: rgb(0, 0, 0);
+  height: 60px;
+}
+.adjust {
+  display: flex;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.adjust1 {
+  color: white;
+
+  margin-top: 10px;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 450;
+  letter-spacing: 1px;
+}
+.logout {
+  display: none;
+  margin-top: 20px;
+  height: 40px;
+  background-color: rgba(0, 0, 0, 0.578);
+  width: 300px;
+  margin-right: 20px;
+  border-radius: 0px 0px 10px 10px;
+}
+.min {
+  padding-left: 25px;
+  padding-top: 3px;
+}
+.adj {
+  margin-right: 20px;
+}

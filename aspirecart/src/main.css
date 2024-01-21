@@ -1,0 +1,194 @@
+.hololo {
+  height: 900px;
+  background-color: rgba(0, 0, 0, 0.712);
+  justify-content: center;
+  display: flex;
+}
+.top {
+  height: 700px;
+  background-color: blue;
+  background-image: url("images/back3.jpeg");
+  background-size: cover;
+  transition-duration: 2s;
+}
+.top:hover {
+  height: 850px;
+}
+.signin {
+  height: 500px;
+  width: 600px;
+  background-color: rgba(0, 0, 0, 0.788);
+  margin-top: 80px;
+  border-radius: 20px;
+  /* box-shadow: 0px 0px 10px 0.5px rgba(255, 0, 0, 0.63); */
+}
+.newsign {
+  height: 610px;
+  width: 600px;
+  background-color: rgba(0, 0, 0, 0.788);
+  margin-top: 80px;
+  border-radius: 20px;
+  /* box-shadow: 0px 0px 10px 0.5px rgba(255, 0, 0, 0.63); */
+}
+.signUp {
+  height: 500px;
+  width: 600px;
+  background-color: rgba(0, 0, 0, 0.788);
+  margin-top: 80px;
+  border-radius: 20px;
+}
+.logopng {
+  height: 70px;
+  width: 200px;
+  margin-left: 30px;
+  /* background-image: url("images/logopng.png"); */
+  background-size: cover;
+  margin-top: 20px;
+}
+.signinn {
+  color: white;
+  margin-top: -10px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+.inputs {
+  width: 490px;
+  background-color: rgb(32, 32, 30);
+  height: 40px;
+  border: none;
+  margin-left: 43px;
+  border-radius: 8px;
+  margin-top: 20px;
+  color: white;
+  font-size: 16 px;
+  font-weight: 500;
+  padding-left: 20px;
+  margin-bottom: 15px;
+}
+.inputs1 {
+  width: 490px;
+  background-color: rgb(32, 32, 30);
+  height: 40px;
+  border: none;
+  margin-left: 43px;
+  border-radius: 8px;
+  margin-top: 20px;
+  color: white;
+  font-size: 16 px;
+  font-weight: 500;
+  padding-left: 20px;
+  margin-bottom: 70px;
+}
+.inputss {
+  width: 500px;
+  background-color: rgb(32, 32, 30);
+  height: 40px;
+  border: none;
+  margin-left: 15px;
+  border-radius: 8px;
+  margin-top: -20px;
+  color: white;
+  font-size: 16 px;
+  font-weight: 500;
+  padding-left: 20px;
+  margin-bottom: 30px;
+}
+.inputsss {
+  width: 500px;
+  background-color: rgb(32, 32, 30);
+  height: 40px;
+  border: none;
+  margin-left: 15px;
+  border-radius: 8px;
+  margin-top: 20px;
+  color: white;
+  font-size: 16 px;
+  font-weight: 500;
+  padding-left: 20px;
+  margin-bottom: 30px;
+}
+
+.signinbut {
+  color: white;
+  background-color: rgb(173, 25, 25);
+  margin-left: 90px;
+  padding-left: 185px;
+  padding-right: 180px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 8px;
+  transition-duration: 1s;
+  font-size: 18px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.non {
+  text-decoration: none;
+}
+.signinbut:hover {
+  background-color: rgb(216, 56, 56);
+}
+.con1 {
+  height: 500px;
+  background-color: rgb(9, 9, 9);
+  background-image: url("images/enjoy.png");
+}
+
+.linku {
+  text-decoration: none;
+}
+h4 {
+  color: white;
+  font-size: 13px;
+  transition-duration: 200ms;
+  padding-top: 20px;
+}
+h4:hover {
+  font-size: 14px;
+}
+.form {
+  margin-top: 60px;
+
+  height: 400px;
+}
+.signinbuttt {
+  color: white;
+  background-color: rgb(173, 25, 25);
+  margin-right: 20px;
+  padding-left: 185px;
+  padding-right: 180px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 8px;
+  transition-duration: 1s;
+  font-size: 18px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.signinbuttt:hover {
+  background-color: rgb(216, 56, 56);
+  border-bottom: none;
+}
+
+.error {
+  color: white;
+}
+
+.newone {
+  margin-bottom: 30px;
+}
+.cov {
+  display: flex;
+}
+.guest {
+  font-size: 16px;
+  font-weight: 100;
+  color: grey;
+  padding-top: 35px;
+  padding-left: 200px;
+  transition-duration: 300ms;
+}
+.guest:hover {
+  color: white;
+}

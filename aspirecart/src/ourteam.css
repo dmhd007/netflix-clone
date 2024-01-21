@@ -1,0 +1,63 @@
+.backgrounddiv {
+  width: 100%;
+  display: inline-flex;
+  margin-top: 30px;
+}
+.tom {
+  height: 350px;
+  width: 300px;
+  background-color: rgb(10, 11, 11);
+  margin: 40px auto;
+  border-radius: 20px;
+  margin-top: 80px;
+  margin-bottom: -40px;
+}
+.profile {
+  height: 170px;
+  width: 170px;
+  background-color: blue;
+  margin-top: -80px;
+  border-radius: 300px;
+  background-image: url("https://qph.fs.quoracdn.net/main-qimg-13c75dd5fc523527f64fa9b06aa1dec9");
+  background-size: cover;
+  border: 3px rgb(148, 23, 23) solid;
+}
+.cimg {
+  background-image: url("https://th.bing.com/th/id/R.13ed00e67f361e13ffe45820a7794cec?rik=gPD4RwPl7aprZQ&riu=http%3a%2f%2fwww.behindwoods.com%2ftamil-movies-cinema-news-16%2fimages%2fmohanlals-take-on-the-current-situation-in-india-through-his-blog-photos-pictures-stills.jpg&ehk=o5DYm3XLY%2fMTEdAQR1qmCtB6wngjYqjvM5AhY82IYfI%3d&risl=&pid=ImgRaw&r=0");
+}
+.ccimg {
+  background-image: url("https://static.toiimg.com/thumb/msid-65176034,imgsize-32296,width-800,height-600,resizemode-75/65176034.jpg");
+}
+.new5 {
+  padding-top: 15px;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+}
+.newh5 {
+  color: grey;
+  padding-top: 5px;
+}
+.about {
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  color: gray;
+}
+.our {
+  height: 100px;
+  margin-top: 10px;
+}
+.pp {
+  font-size: 38px;
+  transition-duration: 100ms;
+}
+.pp:hover {
+  font-size: 40px;
+}
+.margin {
+  margin-top: -190px;
+  margin-left: 50px;
+  margin-right: 40px;
+}

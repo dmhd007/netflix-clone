@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "title": "Kaduva",
+      "img": "./images/kadu.jpg",
+      "rating": "⭐ 3.7 rating",
+      "views": "623429 views",
+      "price": 100,
+      "link": "https://youtu.be/xQtV-X6COk4"
+    },
+    {
+      "title": "Song One",
+      "img": "./images/songone.jpg",
+      "rating": "⭐ 4.1 rating",
+      "views": "1875328 views",
+      "price": 99,
+      "link": "https://youtu.be/ihdJgH757A0"
+    },
+    {
+      "title": "Silver Linings",
+      "img": "./images/silver.jpg",
+      "rating": "⭐ 4.7 rating",
+      "views": "545328 views",
+      "price": 69,
+      "link": "https://youtu.be/_-P-13H5ZhA"
+    },
+    {
+      "title": "Amatuer Love",
+      "img": "./images/amatuer.jpg",
+      "rating": "⭐ 3.4 rating",
+      "views": "34528 views",
+      "price": 239,
+      "link": "https://youtu.be/0cQ3sBXpNtw"
+    },
+    {
+      "title": "Rambo",
+      "img": "./images/rambo.jpg",
+      "rating": "⭐ 4.9 rating",
+      "views": "82342099 views",
+      "price": 599,
+      "link": "https://youtu.be/cf_IOoBXS5s"
+    },
+    {
+      "title": "Frozen",
+      "img": "./images/frozen.jpg",
+      "rating": "⭐ 4.3 rating",
+      "views": "455562099 views",
+      "price": 79,
+      "link": "https://youtu.be/TbQm5doF_Uc"
+    },
+    {
+      "title": "Sector 7",
+      "img": "./images/sector.jpg",
+      "rating": "⭐ 5.0 rating",
+      "views": "92342099 views",
+      "price": 99,
+      "link": "https://www.youtube.com/watch?v=JxYo_rgyHOQ"
+    },
+    {
+      "title": "Igor",
+      "img": "./images/igor.jpg",
+      "rating": "⭐ 4.1 rating",
+      "views": "20984459 views",
+      "price": 59,
+      "link": "https://www.youtube.com/watch?v=mISoL4qf5xo"
+    },
+    {
+      "title": "Akira",
+      "img": "./images/akira.jpg",
+      "rating": "⭐ 4.2 rating",
+      "views": "4342099 views",
+      "price": 199,
+      "link": "https://www.youtube.com/watch?v=QsCkty3mpg0"
+    },
+    {
+      "title": "Fairy Tale",
+      "img": "./images/fairy.jpg",
+      "rating": "⭐ 4.2 rating",
+      "views": "3472099 views",
+      "price": 799,
+      "link": "https://www.youtube.com/watch?v=dRuwjZJ-DQw"
+    },
+    {
+      "title": "Lorax",
+      "img": "./images/lorax.jpg",
+      "rating": "⭐ 3.1 rating",
+      "views": "7842099 views",
+      "price": 129,
+      "link": "https://www.youtube.com/watch?v=dNMBVVdrMKo"
+    },
+    {
+      "title": "Women's",
+      "img": "./images/movie.png",
+      "rating": "⭐ 4.4 rating",
+      "views": "985328 views",
+      "price": 100,
+      "link": "https://www.youtube.com/watch?v=Jwjt0V51z8Q"
+    },
+    {
+      "title": "Black Friday",
+      "img": "./images/movie1.png",
+      "rating": "⭐ 4.1 rating",
+      "views": "200097 views",
+      "price": 299,
+      "link": "https://www.youtube.com/watch?v=SU_59-aC5L8"
+    },
+    {
+      "title": "Dog Woof",
+      "img": "./images/movie2.png",
+      "rating": "⭐ 3.2 rating",
+      "views": "875443 views",
+      "price": 199,
+      "link": "https://www.youtube.com/watch?v=q9vtsUkuKcY"
+    },
+    {
+      "title": "Kerala Now",
+      "img": "./images/movie3.png",
+      "rating": "⭐ 4.9 rating",
+      "views": "9839985 views",
+      "price": 220,
+      "link": "https://www.youtube.com/watch?v=3XghGBQUDBg"
+    },
+    {
+      "title": "Titanic",
+      "img": "./images/titanic.jpg",
+      "rating": "⭐ 4.1 rating",
+      "views": "7875328 views",
+      "price": 119,
+      "link": "https://youtu.be/kVrqfYjkTdQ"
+    }
+  ]
+}

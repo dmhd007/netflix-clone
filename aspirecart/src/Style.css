@@ -1,0 +1,400 @@
+.carousel {
+  height: 550px;
+  background-image: url("images/film.jpg");
+  background-size: cover;
+  animation: changeImage 13s linear infinite;
+}
+@keyframes changeImage {
+  0% {
+    background-image: url("images/film1.jpg");
+    background-size: cover;
+  }
+  33% {
+    background-image: url("images/film2.jpg");
+    background-size: cover;
+  }
+  66% {
+    background-image: url("images/film3.jpg");
+    background-size: cover;
+  }
+  100% {
+    background-image: url("images/film.jpg");
+    background-size: cover;
+  }
+}
+
+.content {
+  height: 550px;
+  transition-duration: 750ms;
+  background-color: rgba(0, 0, 0, 0.349);
+}
+
+.content:hover {
+  background-color: rgba(0, 0, 0, 0.788);
+}
+
+p {
+  padding-top: 60px;
+  padding-left: 50px;
+  color: white;
+  font-size: 55px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  transition-duration: 350ms;
+}
+p:hover {
+  font-size: 60px;
+}
+
+span {
+  color: wheat;
+  font-size: 20px;
+  text-decoration: none;
+  border: 3px white solid;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  border-radius: 15px;
+  margin-left: 50px;
+  margin-top: 0;
+  font-style: italic;
+}
+.infobut {
+  padding-bottom: 50px;
+}
+
+.ll {
+  color: black;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  background-color: white;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-left: 10px;
+  border-radius: 15px;
+  transition-duration: 500ms;
+}
+.ll:hover {
+  box-shadow: 0px 0px 10px red;
+  background-color: rgba(112, 32, 32, 0);
+  border: white solid 3px;
+  color: white;
+}
+
+.content2 {
+  height: 80px;
+  margin-top: 70px;
+
+  text-align: center;
+}
+.flabel {
+  margin-top: 70px;
+  margin-left: 40px;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  font-size: 16px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 30px;
+  padding-left: 30px;
+  border: red 2px solid;
+  border-radius: 30px;
+  font-weight: 500;
+  box-shadow: 0px 0px 0px 4px rgb(0, 0, 0);
+  transition-duration: 1s;
+}
+.flabel:hover {
+  box-shadow: 0px 0px 10px 1px red;
+  border: rgb(255, 255, 255) 2px solid;
+}
+.nun {
+  text-decoration: none;
+}
+.hed {
+  margin-top: 50px;
+  height: 30px;
+  display: flex;
+}
+h1 {
+  padding-left: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 37px;
+}
+.p2 {
+  color: red;
+}
+
+.action {
+  height: 500px;
+}
+.kids {
+  height: 500px;
+}
+.romantic {
+  display: inline-flex;
+  height: 500px;
+  /* background-color: red; */
+}
+.drama {
+  display: inline-flex;
+  height: 500px;
+
+  transition-duration: 1s;
+}
+.divline {
+  height: 2px;
+  background-color: rgb(36, 34, 34);
+  margin-bottom: 20px;
+  margin-right: 30px;
+  margin-left: 30px;
+  border-radius: 12px;
+}
+.adban {
+  height: 460px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  margin-bottom: 30px;
+}
+.backimg {
+  height: 460px;
+  width: 600px;
+  justify-content: center;
+  transition-duration: 1s;
+}
+.backimg:hover {
+  width: 800px;
+}
+.adcontent {
+  height: 460px;
+  width: 800px;
+  background-color: rgb(9, 7, 112);
+  justify-content: center;
+  background-image: url("images/ad.png");
+  background-size: cover;
+  transition-duration: 1s;
+}
+.adcontent:hover {
+  width: 850px;
+}
+
+h3 {
+  color: rgb(10, 7, 15);
+  padding-top: 40px;
+  padding-left: 25px;
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 750;
+  transition-duration: 500ms;
+}
+h3:hover {
+  font-size: 40px;
+}
+
+.res {
+  height: 83px;
+  width: 400px;
+  background-color: red;
+  margin-left: 30px;
+  background-image: url("images/top.png");
+}
+/* ----------------------------------------------- */
+.dramas {
+  height: 410px;
+  width: 290px;
+  background-color: rgb(214, 18, 18);
+  margin-left: 35px;
+  margin-top: 30px;
+  border-radius: 15px;
+  background-image: url("images/movie.png");
+  transition-duration: 500ms;
+}
+
+.dramass {
+  height: 410px;
+  width: 290px;
+  transition-duration: 500ms;
+}
+.dramass:hover {
+  background-color: rgba(0, 0, 0, 0.712);
+}
+
+/* ----------------------------------------------------- */
+.dramas1 {
+  height: 410px;
+  width: 290px;
+  background-color: red;
+  margin-left: 35px;
+  margin-top: 30px;
+  border-radius: 15px;
+  background-image: url("images/movie1.png");
+}
+.dramas2 {
+  height: 410px;
+  width: 290px;
+  background-color: red;
+  margin-left: 35px;
+  margin-top: 30px;
+  border-radius: 15px;
+  background-image: url("images/movie2.png");
+  transition-duration: 1s;
+}
+.dramas3 {
+  height: 410px;
+  width: 290px;
+  background-color: red;
+  margin-left: 35px;
+  margin-top: 30px;
+  border-radius: 15px;
+  background-image: url("images/movie3.png");
+}
+
+h6 {
+  margin-top: 0;
+  padding-left: 25px;
+  font-size: 30px;
+  transition-duration: 200ms;
+  padding-right: 30px;
+  padding-top: 20px;
+  color: rgba(0, 0, 0, 0);
+  padding-bottom: 200px;
+}
+h5 {
+  margin-top: 0px;
+  font-size: 15px;
+  font-weight: 400;
+}
+button {
+  margin-top: 2px;
+}
+h6:hover {
+  color: white;
+}
+.enqury {
+  width: 350px;
+  margin-left: 25px;
+  font-size: 14px;
+  padding-left: 20px;
+}
+.footerr {
+  height: 200px;
+  background-color: rgb(5, 5, 8);
+}
+.submit {
+  background-color: rgba(240, 248, 255, 0);
+  color: rgb(13, 11, 22);
+  border: 0px;
+  font-weight: 700;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.submit:hover {
+  background-color: rgba(240, 248, 255, 0);
+  color: rgb(13, 11, 22);
+  border: none 2px;
+  font-weight: 700;
+}
+.welcome {
+  height: 100px;
+  width: 300px;
+  margin-left: 1000px;
+}
+.h5s {
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0);
+  transition-duration: 200ms;
+  padding-bottom: 200px;
+  padding-top: 5px;
+  padding-right: 100px;
+}
+.h5s:hover {
+  color: rgb(210, 210, 210);
+}
+.buy {
+  color: transparent;
+  padding-top: 210px;
+  font-size: 35px;
+  padding-left: px;
+  padding-right: 250px;
+}
+.buy:hover {
+  color: white;
+}
+
+.dramass1 {
+  height: 410px;
+  width: 290px;
+  background-color: red;
+  margin-left: 35px;
+  margin-top: 30px;
+  border-radius: 15px;
+  background-image: url("images/titanic.jpg");
+  background-size: cover;
+}
+.dramass2 {
+  height: 410px;
+  width: 290px;
+  background-color: red;
+  margin-left: 35px;
+  margin-top: 30px;
+  border-radius: 15px;
+  background-image: url("images/songone.jpg");
+  transition-duration: 1s;
+  background-size: cover;
+}
+.dramass3 {
+  height: 410px;
+  width: 290px;
+  background-color: red;
+  margin-left: 35px;
+  margin-top: 30px;
+  border-radius: 15px;
+  background-image: url("images/silver.jpg");
+  background-size: cover;
+}
+.dramass4 {
+  height: 410px;
+  width: 290px;
+  background-color: grey;
+  margin-left: 35px;
+  margin-top: 30px;
+  border-radius: 15px;
+  background-image: url("images/amatuer.jpg");
+  background-size: cover;
+  transition-duration: 500ms;
+}
+.imgb {
+  background-image: url("images/frozen.jpg");
+  background-size: cover;
+}
+.imgb1 {
+  background-image: url("images/igor.jpg");
+  background-size: cover;
+}
+.imgb2 {
+  background-image: url("images/fairy.jpg");
+  background-size: cover;
+}
+.imgb3 {
+  background-image: url("images/lorax.jpg");
+  background-size: cover;
+}
+.imgbb {
+  background-image: url("images/rambo.jpg");
+  background-size: cover;
+}
+.imgbb1 {
+  background-image: url("images/sector.jpg");
+  background-size: cover;
+}
+.imgbb2 {
+  background-image: url("images/akira.jpg");
+  background-size: cover;
+}
+.imgbb3 {
+  background-image: url("images/kadu.jpg");
+  background-size: cover;
+}
